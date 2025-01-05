@@ -1,0 +1,23 @@
+{
+  "name": "untitled-folder-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^13.17.0",
+    "cypress-iframe": "^1.0.1",
+    "cypress-xpath": "^2.0.1"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "cypress-downloadfile": "^1.2.4",
+    "cypress-mailosaur": "^2.17.0",
+    "mailosaur": "^8.8.0"
+  }
+}
