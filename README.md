@@ -26,12 +26,13 @@ Ensure that you have the following installed:
 
 ## Install below dependencies before running the project
 ```
-npm install cypress
-npm install cypress-iframe
-npm install cypress-xpath
+npm install playwright
+npm install playwright-iframe
+npm install playwright-xpath
 npm install adm-zip
-npm install cypress-downloadfile
-npm install cypress-mailosaur
+npm install playwright-downloadfile
+npm install playwright-mailosaur
+
 ```
 
 ## Running the Tests
