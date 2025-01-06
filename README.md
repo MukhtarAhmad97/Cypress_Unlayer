@@ -1,3 +1,16 @@
+# Introduction
+
+Hello,
+
+In this project, I worked with the Unlayer Studio platform to design and customize an email template. Here’s the process I followed:
+
+1. I went to the Unlayer Studio website (link).
+2. Added my name, Mukhtar Ahmad, to personalize the template.
+3. Adjusted the font size and style to fit my preferences.
+4. Clicked the Export button in the top right corner to export the design.
+5. Downloaded the exported file as a zip archive and stored it in my project folder, download_HTML.
+6. Extracted the contents of the zip file into a folder named Extracted_html.
+7. Opened the HTML file in a browser to view and compare the changes I made to the original template.
 
 # Cypress Test Setup
 
