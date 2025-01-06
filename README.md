@@ -2,7 +2,7 @@
 
 Hello,
 
-In this project, I worked with the Unlayer Studio platform to design and customize an email template. Here’s the process I followed:
+In this project, I worked with the Unlayer Studio platform to design and customize an email template. I can also implement this in the Page Object Model but it wasn't mentioned in the requirements. Here’s the process I followed:
 
 1. I went to the Unlayer Studio website (https://studio.unlayer.com/create/team-member-introduction-email).
 2. Added my name, Mukhtar Ahmad, to personalize the template.
