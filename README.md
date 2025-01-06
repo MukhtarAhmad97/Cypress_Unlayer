@@ -22,12 +22,15 @@ Ensure that you have the following installed:
 
 - Node.js (>= 16)
 - npm (Node Package Manager)
-- Cypress
 
-If you don't have Cypress installed, you can install it by running:
-
+## Install below dependencies before running the project
 ```
 npm install cypress
+npm install cypress-iframe
+npm install cypress-xpath
+npm install adm-zip
+npm install cypress-downloadfile
+npm install cypress-mailosaur
 ```
 
 ## Running the Tests
