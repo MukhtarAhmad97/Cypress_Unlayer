@@ -4,7 +4,7 @@ Hello,
 
 In this project, I worked with the Unlayer Studio platform to design and customize an email template. Here’s the process I followed:
 
-1. I went to the Unlayer Studio website (link).
+1. I went to the Unlayer Studio website (https://studio.unlayer.com/create/team-member-introduction-email).
 2. Added my name, Mukhtar Ahmad, to personalize the template.
 3. Adjusted the font size and style to fit my preferences.
 4. Clicked the Export button in the top right corner to export the design.
