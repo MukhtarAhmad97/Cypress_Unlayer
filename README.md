@@ -8,9 +8,10 @@ In this project, I worked with the Unlayer Studio platform to design and customi
 2. Added my name, Mukhtar Ahmad, to personalize the template.
 3. Adjusted the font size and style to fit my preferences.
 4. Clicked the Export button in the top right corner to export the design.
-5. Downloaded the exported file as a zip archive and stored it in my project folder, download_HTML.
-6. Extracted the contents of the zip file into a folder named Extracted_html.
-7. Opened the HTML file in a browser to view and compare the changes I made to the original template.
+5. After export, the design is sent to email. To handle email scenarios, I used mailosaur library.
+6. Then went to email and downloaded the exported file as a zip archive and stored it in my project folder, download_HTML.
+7. Extracted the contents of the zip file into a folder named Extracted_html.
+8. Opened the HTML file in a browser to view and compare the changes I made to the original template.
 
 # Cypress Test Setup
 
